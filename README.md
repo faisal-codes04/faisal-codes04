@@ -72,8 +72,8 @@
 
 <h3>GitHub stats</h3>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faisal-codes04&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-codes04&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisal-codes04&theme=github_dark" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=faisal-codes04&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <h3>Where to find me</h3>
