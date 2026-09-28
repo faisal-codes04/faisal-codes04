@@ -1,86 +1,96 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Muhammad%20Faisal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pakistan&descAlignY=56&descSize=17" />
 
-<p>Welcome to my page! </br> I'm <b>Muhammad Faisal</b>, a Full Stack Developer from 🇵🇰 <b>Pakistan</b>. I enjoy building web apps, dashboards and tools that solve real problems.</p>
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+web+apps+that+solve+real+problems;Healthcare+%E2%80%A2+AI+%E2%80%A2+Web+Platforms;Always+learning%2C+always+shipping" />
 </p>
 
-<h3>Projects</h3>
+<p align="center">
+  <a href="mailto:faisal04github@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/faisal-codes04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>I'm a <b>Full Stack Developer</b> who turns ideas into complete, working products, from clean user interfaces to the APIs and databases behind them. I enjoy solving real-world problems, especially in <b>healthcare</b> and <b>AI</b>.</p>
+
+<ul>
+  <li>🏥 <b>Healthcare tech:</b> building <b>MyEHR</b> (electronic health records) and <b>Careloop</b> (care management)</li>
+  <li>🤖 <b>AI &amp; automation:</b> Python based personal assistant and conversational chatbots</li>
+  <li>🎓 <b>Final Year Project:</b> <b>TourHunting</b>, a tour discovery &amp; booking platform</li>
+  <li>⚡ <b>Currently leveling up:</b> React, Node.js and Python for AI</li>
+  <li>🧩 <b>How I work:</b> clean code, simple interfaces and features people actually use</li>
+  <li>📫 <b>Let's connect:</b> <a href="mailto:faisal04github@gmail.com">faisal04github@gmail.com</a></li>
+</ul>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p><b>Frontend</b><br/><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=10" /></p>
+<p><b>Backend &amp; Database</b><br/><img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgres&perline=10" /></p>
+<p><b>Tools</b><br/><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" /></p>
+
+<h2>🚀 Featured Projects</h2>
+
 <table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Project</b></td>
-      <td><b>📝 About</b></td>
-      <td><b>🛠 Tech</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/faisal-codes04/MyEHR"><b>MyEHR</b></a></td>
-      <td>Electronic Health Records system</td>
-      <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>TourHunting (FYP)</b></td>
-      <td>Final Year Project – tour discovery &amp; booking platform</td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    </tr>
-    <tr>
-      <td><b>VERSO</b></td>
-      <td>Web application</td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    </tr>
-    <tr>
-      <td><b>Careloop</b></td>
-      <td>Healthcare / care management app</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><b>AI Personal Assistant</b></td>
-      <td>Python based AI personal assistant</td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>Chatbot</b></td>
-      <td>An AI Chatbot</td>
-      <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>Portfolio</b></td>
-      <td>My personal portfolio website</td>
-      <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/faisal-codes04/MyEHR">MyEHR</a></h3>
+      <p>Electronic Health Records system to store, manage and access patient records securely in one place.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
+      <p><a href="https://github.com/faisal-codes04/MyEHR"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=flat-square&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 TourHunting</h3>
+      <p>Final Year Project: a platform to discover tours, compare packages and book trips online.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔁 Careloop</h3>
+      <p>Care management app that keeps patients, caregivers and care plans connected.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Personal Assistant</h3>
+      <p>Python based assistant that understands commands and automates everyday tasks.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Chatbot</h3>
+      <p>Conversational AI chatbot that answers questions in natural language.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 VERSO</h3>
+      <p>Interactive web application built with modern JavaScript.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🎨 Portfolio</h3>
+      <p>Personal portfolio website showcasing my projects and skills.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
+      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+    </td>
+  </tr>
 </table>
 
-<h3>GitHub stats</h3>
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisal-codes04&theme=github_dark" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=faisal-codes04&theme=github-dark-blue&hide_border=true" />
+<h2>🐍 Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisal-codes04/faisal-codes04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisal-codes04/faisal-codes04/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/faisal-codes04/faisal-codes04/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/faisal-codes04" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="mailto:faisal04github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-------------
-<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=faisal-codes04&style=flat-square&color=343b41" /></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" />
