@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-<h2>🐍 Contribution Activity</h2>
+<h2>Contribution Activity</h2>
 
 <p align="center">
   <picture>
