@@ -1,7 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Muhammad%20Faisal&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pakistan&descAlignY=56&descSize=17" />
+<p align="center">
+  <img width="100%" src="./assets/glitch-header.svg" alt="Muhammad Faisal" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+web+apps+that+solve+real+problems;Healthcare+%E2%80%A2+AI+%E2%80%A2+Web+%26+Mobile;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+web+apps+that+solve+real+problems;AI+%E2%80%A2+Web+%E2%80%A2+Mobile;Always+learning%2C+always+shipping" />
 </p>
 
 <p align="center">
@@ -11,11 +13,11 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<p>I'm a <b>Full Stack Developer</b> who turns ideas into complete, working products, from web and mobile interfaces to the APIs and databases behind them. Most of my work sits where <b>healthcare</b> meets <b>AI</b>.</p>
+<p>I'm a <b>Full Stack Developer</b> who turns ideas into complete, working products, from web and mobile interfaces to the APIs and databases behind them. Lately most of my work is with <b>AI</b> and <b>LLMs</b>.</p>
 
 <ul>
-  <li>🏥 <b>Healthcare tech:</b> <b>MyEHR</b> (health records), <b>Careloop</b> (clinic portal) and a patient management chatbot</li>
   <li>🧠 <b>AI &amp; LLMs:</b> RAG apps with vector search, multi-provider LLM fallback (Claude, Gemini, Groq) and an AI assistant</li>
+  <li>🌐 <b>Web apps:</b> <b>MyEHR</b> with CI/CD to Azure, <b>VERSO</b> (chat with your PDFs) and a 3D portfolio</li>
   <li>📱 <b>Mobile:</b> <b>TourHunting</b>, my Final Year Project, built with React Native and ASP.NET Core</li>
   <li>⚙️ <b>Backends I build with:</b> .NET / ASP.NET Core, FastAPI and Node.js + Express</li>
   <li>🚢 <b>Shipping:</b> CI/CD with GitHub Actions, deployments on Azure and Docker containers</li>
