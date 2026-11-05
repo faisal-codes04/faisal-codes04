@@ -11,18 +11,18 @@
   <a href="https://github.com/faisal-codes04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h2>👨‍💻 About Me</h2>
+<img width="100%" src="./assets/about-head.svg" alt="About Me" />
 
 <p>I'm a <b>Full Stack Developer</b> who turns ideas into complete, working products, from web and mobile interfaces to the APIs and databases behind them. Lately most of my work is with <b>AI</b> and <b>LLMs</b>.</p>
 
-<ul>
-  <li>🧠 <b>AI &amp; LLMs:</b> RAG apps with vector search, multi-provider LLM fallback (Claude, Gemini, Groq) and an AI assistant</li>
-  <li>🌐 <b>Web apps:</b> <b>MyEHR</b> with CI/CD to Azure, <b>VERSO</b> (chat with your PDFs) and a 3D portfolio</li>
-  <li>📱 <b>Mobile:</b> <b>TourHunting</b>, my Final Year Project, built with React Native and ASP.NET Core</li>
-  <li>⚙️ <b>Backends I build with:</b> .NET / ASP.NET Core, FastAPI and Node.js + Express</li>
-  <li>🚢 <b>Shipping:</b> CI/CD with GitHub Actions, deployments on Azure and Docker containers</li>
-  <li>📫 <b>Let's connect:</b> <a href="mailto:faisal04github@gmail.com">faisal04github@gmail.com</a></li>
-</ul>
+<p>
+  <img src="./assets/about-ai.svg" width="28" align="absmiddle" />&nbsp; <b>AI &amp; LLMs:</b> RAG apps with vector search, multi-provider LLM fallback (Claude, Gemini, Groq) and an AI assistant<br/>
+  <img src="./assets/about-web.svg" width="28" align="absmiddle" />&nbsp; <b>Web apps:</b> <b>MyEHR</b> with CI/CD to Azure, <b>VERSO</b> (chat with your PDFs) and a 3D portfolio<br/>
+  <img src="./assets/about-mobile.svg" width="28" align="absmiddle" />&nbsp; <b>Mobile:</b> <b>TourHunting</b>, my Final Year Project, built with React Native and ASP.NET Core<br/>
+  <img src="./assets/about-backend.svg" width="28" align="absmiddle" />&nbsp; <b>Backends I build with:</b> .NET / ASP.NET Core, FastAPI and Node.js + Express<br/>
+  <img src="./assets/about-ship.svg" width="28" align="absmiddle" />&nbsp; <b>Shipping:</b> CI/CD with GitHub Actions, deployments on Azure and Docker containers<br/>
+  <img src="./assets/about-mail.svg" width="28" align="absmiddle" />&nbsp; <b>Let's connect:</b> <a href="mailto:faisal04github@gmail.com">faisal04github@gmail.com</a>
+</p>
 
 <h2>🛠️ Tech Stack</h2>
 
