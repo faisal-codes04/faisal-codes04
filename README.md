@@ -104,4 +104,4 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:150b3a,50:7c3aed,100:06b6d4&height=110&section=footer" />
