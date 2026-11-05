@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0620"/><stop offset=".55" stop-color="#150b3a"/><stop offset="1" stop-color="#071a2e"/></linearGradient>
+<linearGradient id="ng" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#e9d5ff"><animate attributeName="offset" values=".2;.8;.2" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#a5f3fc"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".9"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+<filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .05 0"/></filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".025"/></pattern>
+<clipPath id="card"><rect width="900" height="230" rx="16"/></clipPath>
+<clipPath id="s1"><rect x="0" y="70" width="900" height="16"><animate attributeName="y" values="70;104;58;92;70" dur="6s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<style>.n{font:900 64px 'Segoe UI', Inter, Helvetica, Arial, sans-serif;letter-spacing:2px} .sub{font:15px Consolas, 'Cascadia Code', 'Fira Code', Menlo, monospace;fill:#c4b5fd}
+.r{animation:gr 6s steps(1) infinite} .b{animation:gb 6s steps(1) infinite} .sl{animation:gs 6s steps(1) infinite;opacity:0}
+@keyframes gr{0%,86%,100%{transform:none}88%{transform:translate(-4px,1px)}90%{transform:translate(3px,-1px)}92%{transform:translate(-2px,0)}}
+@keyframes gb{0%,86%,100%{transform:none}88%{transform:translate(4px,-1px)}90%{transform:translate(-3px,1px)}92%{transform:translate(2px,0)}}
+@keyframes gs{0%,86%,94%,100%{opacity:0;transform:none}88%{opacity:1;transform:translateX(18px)}91%{opacity:1;transform:translateX(-12px)}}
+.cur{animation:c 1s step-end infinite} @keyframes c{50%{opacity:0}}</style>
+<g clip-path="url(#card)">
+<rect width="900" height="230" fill="url(#bg)"/>
+<circle cx="180" cy="40" r="120" fill="#7c3aed" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="180;260;180" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="730" cy="200" r="130" fill="#06b6d4" opacity=".4" filter="url(#blur)"><animate attributeName="cx" values="730;640;730" dur="16s" repeatCount="indefinite"/></circle>
+<rect width="900" height="230" filter="url(#noise)"/>
+<rect width="900" height="230" fill="url(#scan)"/>
+<rect width="900" height="230" fill="url(#vig)"/>
+<text class="n r" x="450" y="112" text-anchor="middle" fill="#f472b6" opacity=".6">MUHAMMAD FAISAL</text>
+<text class="n b" x="450" y="112" text-anchor="middle" fill="#22d3ee" opacity=".6">MUHAMMAD FAISAL</text>
+<text class="n" x="450" y="112" text-anchor="middle" fill="url(#ng)">MUHAMMAD FAISAL</text>
+<g clip-path="url(#s1)"><text class="n sl" x="450" y="112" text-anchor="middle" fill="#a78bfa">MUHAMMAD FAISAL</text></g>
+<rect x="300" y="132" width="300" height="1" fill="url(#edge)"/>
+<text class="sub" x="450" y="164" text-anchor="middle">&gt; full stack developer · ai · web · mobile<tspan class="cur" fill="#a78bfa">_</tspan></text>
+<g fill="none" stroke="#a78bfa" stroke-width="2" opacity=".7"><path d="M18 40V18H40"/><path d="M860 18H882V40"/><path d="M18 190V212H40"/><path d="M860 212H882V190"/></g>
+<text x="40" y="206" style="font:11px Consolas, 'Cascadia Code', 'Fira Code', Menlo, monospace;fill:#c4b5fd;opacity:.55">SYS.ONLINE <tspan fill="#a78bfa">●</tspan> faisal-codes04</text>
+<rect width="900" height="1.5" fill="url(#edge)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="229" rx="16" fill="none" stroke="#a78bfa" stroke-opacity=".25"/>
+</svg>
