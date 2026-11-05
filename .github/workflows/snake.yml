@@ -15,6 +15,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
@@ -22,6 +25,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Style the snake (gradient, glow, eyes)
+        run: |
+          sudo python3 .github/scripts/style_snake.py dist/github-snake.svg light
+          sudo python3 .github/scripts/style_snake.py dist/github-snake-dark.svg dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
