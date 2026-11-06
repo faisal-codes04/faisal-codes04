@@ -43,58 +43,24 @@
 
 <h2>Featured Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/faisal-codes04/MyEHR">MyEHR</a></h3>
-      <p>Electronic health record app for managing patient records. React frontend, .NET 10 Web API backend, auto-deployed to an Azure VM with GitHub Actions.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_VM-0078D4?style=flat-square" /></p>
-      <p><a href="https://github.com/faisal-codes04/MyEHR"><img src="https://img.shields.io/badge/View_Code-1f6feb?style=flat-square&logo=github&logoColor=white" /></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 TourHunting (FYP)</h3>
-      <p>Android app connecting touring companies with travellers: tour listings, bookings, routes on maps and photo/video galleries.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 VERSO</h3>
-      <p>RAG document chat: upload a PDF and ask questions in plain English, answered from the most relevant passages via vector search.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Patient Management Chatbot</h3>
-      <p>Manage hospital patient records through chat in English, Urdu or Hindi, with Claude → Gemini → Groq fallback.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 RAG Chatbot</h3>
-      <p>AI chatbot that answers from any document: PDFs, Word, Excel, web pages and YouTube transcripts.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Personal Assistant</h3>
-      <p>Claude-powered assistant that connects Gmail and social platforms: X, Reddit, Instagram, LinkedIn and TikTok.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎨 <a href="https://faisal-muhammad.vercel.app">Portfolio</a></h3>
-      <p>Personal portfolio with iOS-style liquid glass, a live colour grade that breathes in the background and a 3D sphere of the tools I use.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Canvas-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></p>
-      <p><a href="https://faisal-muhammad.vercel.app"><img src="https://img.shields.io/badge/Live_Site-C38A57?style=flat-square&logo=vercel&logoColor=white" /></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/faisal-codes04/MyEHR"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/card-myehr-dark.svg" /><img width="49%" src="./assets/cards/card-myehr-light.svg" alt="MyEHR" /></picture></a>
+  <a href="mailto:faisal04github@gmail.com?subject=Demo%20request%3A%20TourHunting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/card-tourhunting-dark.svg" /><img width="49%" src="./assets/cards/card-tourhunting-light.svg" alt="TourHunting (Final Year Project)" /></picture></a>
+</p>
+<p align="center">
+  <a href="mailto:faisal04github@gmail.com?subject=Demo%20request%3A%20VERSO"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/card-verso-dark.svg" /><img width="49%" src="./assets/cards/card-verso-light.svg" alt="VERSO" /></picture></a>
+  <a href="mailto:faisal04github@gmail.com?subject=Demo%20request%3A%20RAG%20Chatbot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/card-ragchatbot-dark.svg" /><img width="49%" src="./assets/cards/card-ragchatbot-light.svg" alt="RAG Chatbot" /></picture></a>
+</p>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+<ul>
+  <li><b>Patient Management Chatbot</b>: manage hospital patient records through chat in English, Urdu or Hindi, with Claude → Gemini → Groq fallback. <i>React · FastAPI · PostgreSQL</i></li>
+  <li><b>AI Personal Assistant</b>: Claude-powered assistant that connects Gmail and social platforms: X, Reddit, Instagram, LinkedIn and TikTok. <i>Python · FastAPI · SQLite</i></li>
+  <li><b><a href="https://faisal-muhammad.vercel.app">Portfolio</a></b>: iOS-style liquid glass, a live colour grade that breathes in the background and a 3D sphere of the tools I use. <i>HTML · CSS · JavaScript · Vercel</i></li>
+</ul>
+</details>
 
 <p>🛠️ <b>Currently building:</b> <b>Careloop</b>, a clinic practice-management portal that takes doctors, reception and admins through a full clinic day (ASP.NET Core · C# · PostgreSQL).</p>
 
