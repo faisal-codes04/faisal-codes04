@@ -19,7 +19,7 @@
 
 <ul>
   <li><b>AI &amp; LLMs:</b> RAG apps with vector search, multi-provider LLM fallback (Claude, Gemini, Groq) and an AI assistant</li>
-  <li><b>Web apps:</b> <b>MyEHR</b> with CI/CD to Azure, <b>VERSO</b> (chat with your PDFs) and a 3D portfolio</li>
+  <li><b>Web apps:</b> <b>MyEHR</b> with CI/CD to Azure, <b>VERSO</b> (chat with your PDFs) and <a href="https://faisal-muhammad.vercel.app">my portfolio</a></li>
   <li><b>Mobile:</b> <b>TourHunting</b>, my Final Year Project, built with React Native and ASP.NET Core</li>
   <li><b>Backends I build with:</b> .NET / ASP.NET Core, FastAPI and Node.js + Express</li>
   <li><b>Shipping:</b> CI/CD with GitHub Actions, deployments on Azure and Docker containers</li>
