@@ -9,6 +9,8 @@
 <p align="center">
   <a href="mailto:faisal04github@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/faisal-codes04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faisal-muhammad04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://faisal-muhammad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C38A57?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <h2>About Me</h2>
@@ -21,7 +23,7 @@
   <li><b>Mobile:</b> <b>TourHunting</b>, my Final Year Project, built with React Native and ASP.NET Core</li>
   <li><b>Backends I build with:</b> .NET / ASP.NET Core, FastAPI and Node.js + Express</li>
   <li><b>Shipping:</b> CI/CD with GitHub Actions, deployments on Azure and Docker containers</li>
-  <li><b>Let's connect:</b> <a href="mailto:faisal04github@gmail.com">faisal04github@gmail.com</a></li>
+  <li><b>Let's connect:</b> <a href="mailto:faisal04github@gmail.com">faisal04github@gmail.com</a> · <a href="https://faisal-muhammad.vercel.app">faisal-muhammad.vercel.app</a></li>
 </ul>
 
 <h2>Tech Stack</h2>
@@ -92,10 +94,10 @@
       <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Portfolio</h3>
-      <p>Personal portfolio website with an animated 3D background (bloom effects) and a custom cursor.</p>
-      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/Private_Repo-30363d?style=flat-square&logo=github&logoColor=white" /></p>
+      <h3>🎨 <a href="https://faisal-muhammad.vercel.app">Portfolio</a></h3>
+      <p>Personal portfolio with iOS-style liquid glass, a live colour grade that breathes in the background and a 3D sphere of the tools I use.</p>
+      <p><b>Tech Stack</b><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Canvas-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></p>
+      <p><a href="https://faisal-muhammad.vercel.app"><img src="https://img.shields.io/badge/Live_Site-C38A57?style=flat-square&logo=vercel&logoColor=white" /></a></p>
     </td>
   </tr>
 </table>
