@@ -29,13 +29,13 @@
 <h2>Tech Stack</h2>
 
 <h4>Languages</h4>
-<p><img src="https://skillicons.dev/icons?i=cs,python,js,html,css&perline=12" height="42" /></p>
+<p><img src="https://skillicons.dev/icons?i=cs,python,js,ts,java,html,css&perline=12" height="42" /></p>
 <h4>Frontend &amp; Mobile</h4>
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&perline=12" height="42" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&perline=12" height="42" /><br/><img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></p>
 <h4>Backend</h4>
 <p><img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,express&perline=12" height="42" /></p>
 <h4>Databases</h4>
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=12" height="42" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" /></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&perline=12" height="42" /><br/><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /></p>
 <h4>AI &amp; LLMs</h4>
 <p><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" /> <img src="https://img.shields.io/badge/RAG_%2F_Vector_Search-1f6feb?style=flat-square" /></p>
 <h4>Tools</h4>
