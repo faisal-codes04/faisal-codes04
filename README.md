@@ -41,7 +41,7 @@
 <h4>Tools</h4>
 <p><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,azure&perline=12" height="42" /></p>
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 
 <table>
   <tr>
